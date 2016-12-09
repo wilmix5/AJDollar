@@ -1,7 +1,7 @@
 # JDollar
 ============
 
- JDollar is a  highly standard and  securable Programming Language invented   in CH$ P.L
+ JDollar is a  highly standard and  securable Programming Language invented by  wilmix  jemin  j  in CH$ P.L
 
 
 INTRODUCTION:(JDollar)
