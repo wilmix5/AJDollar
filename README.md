@@ -231,3 +231,6 @@ t1.<START>; //   start   second   thread.
 </code>
 </Jdollar>
 
+
+
+Note: JDollar(J$) P.L  is used  only  in ASIA,Africa,Arabia.
