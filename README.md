@@ -17,8 +17,8 @@ focused   in   deploying remotewebapplication  at  cloudcomputing, JDollar   and
 When it was Invented? Who invented it?
 
 JDollar project took place from year 2009 to
-2013. And it is invented at year 2013. And modified in C/C++ And completly invented at year 2014.
-It is invented by wilmix jemin j at  C/C++ P.L .
+2013. 
+It is invented by wilmix jemin j at  CH$ P.L .
 It used JDollar-JAVA runtime to run the programs.
 
 
