@@ -54,9 +54,9 @@ JWEB SYNTAX for Enterprise and WEB Development
 </JDWEB>
 
 Note :  Extension:  .jwp
-Note :  Extension:  .jwp
 
-JDollar SYNTAX for JDollar and mobile development:
+
+JDollar SYNTAX for WEB and mobile development:
 
 <JDOLLAR>
 
@@ -117,7 +117,7 @@ ABOUT JDollar Advantages:-
 
 20.   It  also   function like  servlet   and  jsp.
 
-21.  Used  to construct   remote  software  and  remote  JDollarapplication(Terminal  JDollarapplication).
+21.  Used  to construct   remote  software  and  remote  WEBapplication(Terminal  JDollarapplication).
 
 21.   It  comes  with  JWEJ$   Editor.
 
@@ -142,7 +142,7 @@ So JDollar is  important  in  security side...
 
 What  does  JDollar  do  at  runtime?
 
-It  runs any  .exe  file   created  by JAS  or  cdollar  
+It  runs any  .exe  file   created  by    cdollar  
 
 and  displays  the  output  in JDollar emulator/ JDollar Wallet.
 
