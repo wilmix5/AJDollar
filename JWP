@@ -1,16 +1,16 @@
 
 
-JDollarWebPages
+AJDollarWebPages
 ----------------------
 
-JDollarWebpages(JWP)    is mostly  used   in  software  development  for  Banking  ,Insurance,etc.
+AJDollarWebpages(JWP)    is mostly  used   in  software  development  for  Banking  ,Insurance,etc.
 
 It's   extension  is   .jwp.
 
 Note:  The  WebServer  is  not  opensource.  But  this  tutorial   is  opensource.
 
 
-SYNTAX  for  JDollarWebpages:
+SYNTAX  for  AJDollarWebpages:
 ---------------------------------------
 
 
@@ -29,7 +29,7 @@ SYNTAX  for  JDollarWebpages:
 Advantages:
 ----------
 
-1) It  is  used  as    JDollar-AJAX.  
+1) It  is  used  as    AJDollar-AJAX.  
 
 2)  It  also   used   in Enterprise design  (BMP,CMP, Statelfull session bean,  stateless sesion bean),etc   using  JWP.
 
@@ -292,3 +292,7 @@ Although    JWP  is   focused   on  Software  Development
 JWP    is   focused   on  Software   Developement, Cloud  computing  ,
 
 and  mobile   cloud  computing.
+
+
+
+Note:  Here   AJDOLLAR .exe  and  .dll  is  used.
